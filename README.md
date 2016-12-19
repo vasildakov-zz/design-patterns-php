@@ -1,9 +1,9 @@
 # PHP Design Patterns
 
 [![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-coveralls]][link-coveralls]
-[![Quality Score][ico-code-quality]][link-code-quality]
+[![Build Status](https://travis-ci.org/vasildakov/design-patterns-php.svg?branch=master)](https://travis-ci.org/vasildakov/design-patterns-php)
+[![Coverage Status](https://coveralls.io/repos/github/vasildakov/design-patterns-php/badge.svg?branch=master)](https://coveralls.io/github/vasildakov/design-patterns-php?branch=master)
+
 
 
 ## Install
