@@ -2,7 +2,7 @@
 
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
+[![Coverage Status][ico-coveralls]][link-coveralls]
 [![Quality Score][ico-code-quality]][link-code-quality]
 
 
@@ -27,3 +27,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 
 
+[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/vasildakov/design-patterns-php/master.svg?style=flat-square
+[ico-coveralls]: https://img.shields.io/travis/vasildakov/design-patterns-php/master.svg?style=flat-square
