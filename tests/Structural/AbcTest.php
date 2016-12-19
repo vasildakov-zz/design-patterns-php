@@ -1,7 +1,6 @@
 <?php
 namespace VasilDakov\DesignPatternsTest;
 
-
 /**
  * AbcTest
  *
