@@ -29,4 +29,4 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/vasildakov/design-patterns-php/master.svg?style=flat-square
-[ico-coveralls]: https://img.shields.io/travis/vasildakov/design-patterns-php/master.svg?style=flat-square
+[ico-coveralls]: https://img.shields.io/codecov/c/github/codecov/vasildakov/design-patterns-php/master.svg?style=flat-square

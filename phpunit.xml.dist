@@ -11,7 +11,7 @@
     bootstrap="vendor/autoload.php">
 
     <testsuites>
-        <testsuite name="PHP Design Patterns Test Suite">
+        <testsuite name="LendInvest Test Suite">
             <directory>./tests/</directory>
         </testsuite>
     </testsuites>
